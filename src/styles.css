@@ -1,0 +1,13 @@
+:root {
+  --primary: #23422a;
+  --secondary: #75584d;
+  --tertiary: #711e0e;
+  --surface: #f4ffc8;
+}
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: var(--surface);
+  color: var(--primary);
+}

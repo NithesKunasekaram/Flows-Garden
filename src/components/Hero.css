@@ -1,0 +1,174 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px;
+}
+
+.hero-text {
+  max-width: 400px;
+}
+
+.hero h1 {
+  font-family: 'Newsreader', serif;
+  font-size: 56px;
+}
+
+.hero-image img {
+  width: 350px;
+  border-radius: 60% 40% 50% 30%;
+  transform: translateY(40px);
+}
+
+.HeroPara {
+  width: 512px;
+  height: 105px;
+  max-width: 512px;
+  padding: 7px;
+}
+
+.ExploreBtn {
+  width: 236.45px;
+  height: 64px;
+  padding: 20px 40px;
+  border-radius: 9999px;
+  background: linear-gradient(111.13deg, #23422A 0%, #3A5A40 100%);
+
+}
+
+.smallHeader {
+  font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  font-style: Regular;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 3.6px;
+  vertical-align: middle;
+  text-transform: uppercase;
+
+}
+
+.mainHeader {
+
+  width: 532.75;
+  height: 256;
+  opacity: 1;
+
+
+  font-family: Newsreader;
+  font-weight: 400;
+  font-style: Italic;
+  font-size: 128px;
+  line-height: 128px;
+  letter-spacing: -6.4px;
+  vertical-align: middle;
+
+  font-family: Newsreader;
+  font-weight: 400;
+  font-style: Italic;
+  font-size: 128px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  vertical-align: middle;
+
+
+}
+
+.wild {
+  color: brown;
+}
+
+.heroPara {
+  font-family: Plus Jakarta Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 20px;
+  line-height: 32.5px;
+  letter-spacing: 0px;
+  vertical-align: middle;
+  color: rgba(117, 88, 77, 1);
+
+
+}
+
+button {
+  width: 236;
+  height: 64;
+  opacity: 1;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  border-radius: 9999px;
+
+
+}
+
+.ExploreBtn {
+  width: 156;
+  height: 24;
+  opacity: 1;
+  font-family: Plus Jakarta Sans;
+  /* font-weight:700; */
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  text-align: center;
+  vertical-align: middle;
+  color: rgba(255, 255, 255, 1);
+
+}
+
+.ourLink {
+  width: 95.12999725341797;
+  height: 24;
+  opacity: 1;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  vertical-align: middle;
+  color: #23422A;
+  text-decoration: none;
+
+
+}
+
+
+/* side banner */
+
+.design-container {
+  position: relative;
+  width: 60%;
+  /* adjust as needed */
+  margin: auto;
+  background-color: #d9e4b5;
+  /* page background */
+}
+
+.base-image {
+  width: 100%;
+  display: block;
+  border-radius: 10% 30%;
+}
+
+.sticker-image {
+  position: absolute;
+  bottom: 5px;
+  /* left: 20px; */
+  width: 150px;
+  border: 8px solid #d9e4b5;
+  /* same as background */
+  border-radius: 0% 0% 0% 50%;
+  /* organic leaf-like shape */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.Symbol {
+  font-size: 30px;
+  padding-top: 10px;
+
+}
